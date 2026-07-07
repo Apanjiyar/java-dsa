@@ -6,6 +6,7 @@ import java.util.Collections;
 /**
  * Find the maximum and minimum element in an array
  * https://www.geeksforgeeks.org/dsa/maximum-and-minimum-in-an-array/
+ * https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
  */
 public class Problem2 {
 
