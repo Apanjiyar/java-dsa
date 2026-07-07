@@ -106,7 +106,7 @@ public class Problem3 {
     }
 
     /**
-    * Quick Select Approach (⭐⭐)
+    * Quick Select Approach (⭐⭐⭐⭐⭐)
     * Time: O(n)
     * Space: O(1)
     */
