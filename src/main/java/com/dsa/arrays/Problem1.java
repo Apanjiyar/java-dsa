@@ -15,27 +15,27 @@ public class Problem1 {
     int[] arr = {1,2,3,4,5};
     
     approach1(arr);
-    System.out.println("After approach1:");
+    System.out.println("After Two Pointer Approach:");
     printArray(arr);
 
     approach2(arr);
-    System.out.println("After approach2:");
+    System.out.println("After Extra Array Approach:");
     printArray(arr);
 
     approach3(arr, 0, arr.length - 1);
-    System.out.println("After approach3:");
+    System.out.println("After Recursion Approach:");
     printArray(arr);
 
     approach4(arr);
-    System.out.println("After approach4:"); 
+    System.out.println("After Stack Approach:"); 
     printArray(arr);
 
     approach5(arr);
-    System.out.println("After approach5:");
+    System.out.println("After Collections Approach:");
     printArray(arr);
 
     approach6(arr);
-    System.out.println("After approach6:");
+    System.out.println("After Stream Approach:");
     printArray(arr);
   }
 
