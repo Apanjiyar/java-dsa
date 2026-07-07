@@ -20,6 +20,9 @@ public class Problem2 {
 
         System.out.println("Approach 3: Stream" );
         approach3(arr);
+
+        System.out.println("Approach 4: Collections" );
+        approach4(arr);
     }
 
     /**
