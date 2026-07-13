@@ -38,6 +38,8 @@ Array
     https://leetcode.com/problems/merge-sorted-array/description/ (Done)
     https://leetcode.com/problems/squares-of-a-sorted-array/description/ (Done)
     https://leetcode.com/problems/3sum/description/ (Done) (Revision Required)
+    https://leetcode.com/problems/3sum-closest/description/ (Done) (Revision Required)
+    https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1 (Done) (Revision Required)
 
 
 Linked List
