@@ -31,11 +31,13 @@ If a problem contains these keywords, consider the **Two Pointer** approach:
 ## 📚 Practice Questions
 
 Array
+    https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1 (Done)
     https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/ (Done)
     https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ (Done)
     https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/ (Done) (Revision Required)
     https://leetcode.com/problems/merge-sorted-array/description/ (Done)
     https://leetcode.com/problems/squares-of-a-sorted-array/description/ (Done)
+    https://leetcode.com/problems/3sum/description/ (Done) (Revision Required)
 
 
 Linked List
