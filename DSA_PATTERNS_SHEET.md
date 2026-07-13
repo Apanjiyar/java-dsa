@@ -4,6 +4,9 @@ A structured collection of DSA patterns and LeetCode problems to prepare for cod
 
 ## 📄 DSA Pattern Sheet
 
+🔗 **Youtube Playlist**
+https://www.youtube.com/watch?v=qH2VQY48mg4&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=1  
+
 🔗 **Google Sheet:**  
 https://docs.google.com/spreadsheets/d/1T5-nGsJ9WNwna44e9WWRD0jlZIT5KxVOGvylcvvVrY8/edit?gid=0#gid=0
 
@@ -44,6 +47,26 @@ Array
 
 Linked List
     https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+    
+---
+
+# 🟢 Pattern 2: Sliding Window
+
+## 📌 Applicable Data Structures
+
+
+## 🔑 Common Keywords
+
+If a problem contains these keywords, consider the **Sliding Window** approach:
+- contiguous subarray
+- all positive numbers
+- maintain a condition like sum/product < k
+- find count/max/min of valid subarrays
+
+## 📚 Practice Questions
+
+Array
+    https://leetcode.com/problems/subarray-product-less-than-k/description/
     
 ---
 
