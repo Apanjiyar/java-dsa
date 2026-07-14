@@ -42,7 +42,9 @@ Array
     https://leetcode.com/problems/squares-of-a-sorted-array/description/ (Done)
     https://leetcode.com/problems/3sum/description/ (Done) (Revision Required)
     https://leetcode.com/problems/3sum-closest/description/ (Done) (Revision Required)
+    https://leetcode.com/problems/4sum/description/ (Done) (Revision Required)
     https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1 (Done) (Revision Required)
+    https://leetcode.com/problems/sort-colors/description/ (Dutch National Flag) (Done) (Revision Required)
 
 
 Linked List
@@ -66,7 +68,7 @@ If a problem contains these keywords, consider the **Sliding Window** approach:
 ## 📚 Practice Questions
 
 Array
-    https://leetcode.com/problems/subarray-product-less-than-k/description/
+    https://leetcode.com/problems/subarray-product-less-than-k/description/ (Done) (Revision Required)
     
 ---
 
