@@ -95,6 +95,13 @@
         ],
         "status": "Done",
         "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/subarray-product-less-than-k/description/",
+        "approach": ["Sliding Window"],
+        "status": "Done",
+        "revisionRequired": true
     }
 ]
 ```

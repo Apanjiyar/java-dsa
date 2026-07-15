@@ -131,9 +131,6 @@ Arrays
 ]
 ```
 
-    https://leetcode.com/problems/string-compression/description/ (Done) (Revision Required)
-     (Done)
-
 Linked List
 
 ```json
