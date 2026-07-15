@@ -1,37 +1,35 @@
 package com.dsa.arrays;
 
-import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+import lombok.val;
 
 public class Temp {
 
     public static void main(String[] args){
-        
-        int[] arr = new int[]{1, 3, 6, 7, 8, 9, 10, 19, 20, 21, 23, 25, 26, 27, 28, 30, 31, 33};
-        countTriplets(86, arr);
-
+        char[] chars = {'a','a','b','b','c','c','c'};
+        System.out.println(compress(chars));
     }
 
-    public static int countTriplets(int sum, int arr[]) {
-        // code here
+    public static boolean increasingTriplet(int[] nums) {
         
-        int result = 0;
-        
-        // Sorting 
-        Arrays.sort(arr);
-        
-        for(int i = 0; i < arr.length - 2; i++) {
+        for(int i = 0; i < nums.length; i++) {
             int left = i + 1;
-            int right = arr.length - 1;
+            int right = nums.length - 1; 
             
-           while(left < right) {
-                int s = arr[i] + arr[left] + arr[right];
-                
-                if(s < sum) {
-                    result++;
-                } 
-                right--;
+            while(left < right) {
+                if(nums[i] < nums[left] && nums[left] < nums[right]) {
+                    return true;
+                } else if (nums[i] > nums[left]){
+                    left++;
+                } else {
+                    right--;
+                }
             }
         }
-        return result;
+        return false;
     }
 }

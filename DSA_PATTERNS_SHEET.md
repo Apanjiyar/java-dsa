@@ -33,22 +33,121 @@ If a problem contains these keywords, consider the **Two Pointer** approach:
 
 ## 📚 Practice Questions
 
-Array
-    https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1 (Done)
-    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/ (Done)
-    https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ (Done)
-    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/ (Done) (Revision Required)
-    https://leetcode.com/problems/merge-sorted-array/description/ (Done)
-    https://leetcode.com/problems/squares-of-a-sorted-array/description/ (Done)
-    https://leetcode.com/problems/3sum/description/ (Done) (Revision Required)
-    https://leetcode.com/problems/3sum-closest/description/ (Done) (Revision Required)
-    https://leetcode.com/problems/4sum/description/ (Done) (Revision Required)
-    https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1 (Done) (Revision Required)
-    https://leetcode.com/problems/sort-colors/description/ (Dutch National Flag) (Done) (Revision Required)
+Arrays
 
+```json
+[
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
+        "approach": ["Two Pointer"],
+        "status": "Done",
+        "revisionRequired": false
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1",
+        "approach": ["Two Pointer"],
+        "status": "Done",
+        "revisionRequired": false
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+        "approach": ["Two Pointer"],
+        "status": "Done",
+        "revisionRequired": false
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/",
+        "approach": ["Two Pointer"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/squares-of-a-sorted-array/description/",
+        "approach": ["Two Pointer"],
+        "status": "Done",
+        "revisionRequired": false
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/3sum/description/",
+        "approach": ["Sorting", "Two Pointer"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/3sum-closest/description/",
+        "approach": ["Sorting", "Two Pointer"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/4sum/description/",
+        "approach": ["Sorting", "Two Pointer"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
+        "approach": ["Sorting", "Two Pointer"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/sort-colors/description/",
+        "approach": ["Dutch National Flag"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/merge-sorted-array/description/",
+        "approach": ["Two Pointer"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/backspace-string-compare/",
+        "approach": ["Two Pointer"],
+        "status": "",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/",
+        "approach": ["Two Pointer"],
+        "status": "",
+        "revisionRequired": true
+    }
+]
+```
+
+    https://leetcode.com/problems/string-compression/description/ (Done) (Revision Required)
+     (Done)
 
 Linked List
-    https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+
+```json
+[
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/",
+        "approach": ["Two Pointer"],
+        "status": "",
+        "revisionRequired": false
+    }
+]
+```
+    
     
 ---
 
@@ -68,7 +167,18 @@ If a problem contains these keywords, consider the **Sliding Window** approach:
 ## 📚 Practice Questions
 
 Array
-    https://leetcode.com/problems/subarray-product-less-than-k/description/ (Done) (Revision Required)
+
+```json
+[
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/subarray-product-less-than-k/description/",
+        "approach": ["Sliding Window"],
+        "status": "Done",
+        "revisionRequired": true
+    }
+]
+```
     
 ---
 
