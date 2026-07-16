@@ -151,15 +151,39 @@ Linked List
 # 🟢 Pattern 2: Sliding Window
 
 ## 📌 Applicable Data Structures
+- Array
+- String
 
 
 ## 🔑 Common Keywords
 
 If a problem contains these keywords, consider the **Sliding Window** approach:
-- contiguous subarray
-- all positive numbers
-- maintain a condition like sum/product < k
-- find count/max/min of valid subarrays
+
+Step 1:
+- Subarray
+- Substring
+- Continuous
+- Consecutive
+- Contiguous
+
+Step 2: Fixed Size Window  
+- Size K
+- Length K
+- Every K elements
+- Every window of size K
+
+Step 2: Dynamic/Variable Size Window
+- Longest
+- Shortest
+- Minimum
+- Maximum
+- At most K
+- At least K
+- No duplicates
+- Distinct characters
+- Sum <= K
+
+Note: If the question has **subsequence** then do not appliy sliding window approach 
 
 ## 📚 Practice Questions
 
@@ -167,6 +191,13 @@ Array
 
 ```json
 [
+    {
+        "platform": "GFG",
+        "problemLink": "https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1",
+        "approach": ["Sliding Window"],
+        "status": "Done",
+        "revisionRequired": false
+    },
     {
         "platform": "LeetCode",
         "problemLink": "https://leetcode.com/problems/subarray-product-less-than-k/description/",
