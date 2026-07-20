@@ -204,6 +204,27 @@ Array
         "approach": ["Sliding Window"],
         "status": "Done",
         "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+        "approach": ["Sliding Window"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1",
+        "approach": ["Sliding Window"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/fruit-into-baskets/description/",
+        "approach": ["Sliding Window"],
+        "status": "Done",
+        "revisionRequired": true
     }
 ]
 ```

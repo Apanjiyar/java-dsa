@@ -10,26 +10,35 @@ import lombok.val;
 public class Temp {
 
     public static void main(String[] args){
-        char[] chars = {'a','a','b','b','c','c','c'};
-        System.out.println(compress(chars));
+        int[] nums = {2,3,1,2,4,3};
+        int target = 7;
+        System.out.println(minSubArrayLen(target, nums));
     }
 
-    public static boolean increasingTriplet(int[] nums) {
-        
-        for(int i = 0; i < nums.length; i++) {
-            int left = i + 1;
-            int right = nums.length - 1; 
-            
-            while(left < right) {
-                if(nums[i] < nums[left] && nums[left] < nums[right]) {
-                    return true;
-                } else if (nums[i] > nums[left]){
-                    left++;
-                } else {
-                    right--;
+    public static int minSubArrayLen(int target, int[] nums) {
+
+        int result = 0;
+
+        int i = 0;
+        int j = 0;
+        int sum = 0;
+
+        while(j < nums.length) {
+            sum += nums[j];
+            if(sum >= target) {
+                result = j - i + 1;
+            }
+            while(sum >= target) {
+                sum -= nums[i];
+                i++;
+                if(sum >= target) {
+                    result = j - i + 1;
                 }
             }
+            j++;
         }
-        return false;
+
+        return result;
+        
     }
 }
