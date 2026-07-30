@@ -228,6 +228,20 @@ Array
     },
     {
         "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+        "approach": ["Sliding Window", "Set", "Map"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/longest-repeating-character-replacement/description/",
+        "approach": ["Sliding Window", "Set", "Map"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
         "problemLink": "https://leetcode.com/problems/max-consecutive-ones-iii/description/",
         "approach": ["Sliding Window"],
         "status": "Done",
