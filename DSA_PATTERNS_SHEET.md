@@ -225,6 +225,13 @@ Array
         "approach": ["Sliding Window"],
         "status": "Done",
         "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/max-consecutive-ones-iii/description/",
+        "approach": ["Sliding Window"],
+        "status": "Done",
+        "revisionRequired": true
     }
 ]
 ```
