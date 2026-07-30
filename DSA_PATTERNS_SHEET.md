@@ -246,8 +246,21 @@ Array
         "approach": ["Sliding Window"],
         "status": "Done",
         "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/find-all-anagrams-in-a-string/description/",
+        "approach": ["Sliding Window",  "Map"],
+        "status": "Done",
+        "revisionRequired": true
+    },
+    {
+        "platform": "LeetCode",
+        "problemLink": "https://leetcode.com/problems/permutation-in-string/description/",
+        "approach": ["Sliding Window",  "Map"],
+        "status": "Done",
+        "revisionRequired": true
     }
-]
 ```
     
 ---
